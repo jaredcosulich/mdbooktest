@@ -1,7 +1,7 @@
 [book]
-authors = ["Michael Currin"]
+authors = ["FutureStack"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook Quickstart"
-description = "Demo site for mdBook Quickstart repo"
+title = "FutureStack Knowledge Base"
+description = "The accumulated knowledge of the FutureStack community."
