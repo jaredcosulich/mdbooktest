@@ -1,8 +1,13 @@
-# Summary
+# Technologies
 
-- [mdBook Quickstart](README.md)
-- [Chapter 1](chapter-1.md)
-- [Chapter 2](chapter-2.md)
-- [Foo](foo/README.md)
-    - [Fizz](foo/fizz.md)
-    - [Buzz](foo/buzz.md)
+- [Crypto / Web3](categories/crypto.md)
+  - [Languages](crypto/languages.md)
+  - [Layer 1](crypto/layer1.md)
+
+# Open Source Repos
+
+- [XXX]()
+
+# Interesting Products
+
+- [Warp]()
