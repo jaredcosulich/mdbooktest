@@ -12,6 +12,20 @@ Please come join us and contribute to this growing resource!
 
 #### Technologies
 
+- [Crypto / Web3](categories/crypto.md)
+  - [Languages](crypto/languages.md)
+    - [Move]()
+  - [Layer 1](crypto/layer1.md)
+    - [Sui]()
+    - [Aptos]()
+    - [Near]()
+    - [Ethereum]()
+  - [Layer 2]()
+    - [ZKSync (Ethereum)]()
+
 #### Open Source Repositories
 
 #### Interesting Products / Services
+
+- [Warp]()
+  - A modern-day CLI
